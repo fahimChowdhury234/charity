@@ -94,7 +94,7 @@
     .donetion-form {
         display: flex;
         flex-direction: column;
-        gap: 20px;
+
         width: 95%;
         margin: 20px auto;
     }
