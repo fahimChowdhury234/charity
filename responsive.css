@@ -123,4 +123,48 @@
     .whatWeDo-section .about-section-title {
         width: 90%;
     }
+
+    .contact-section,
+    .contact-form-section {
+        padding: 20px 0;
+    }
+
+
+    .contact-box {
+        margin-bottom: 20px !important;
+        width: 96%;
+        margin: 0 auto;
+        border: 1px solid #eee;
+        min-height: 220px;
+    }
+
+    .contact-form-box {
+        margin-bottom: 20px !important;
+        border: 1px solid #eee;
+
+    }
+
+    .contact-form-section iframe {
+        width: 100%;
+    }
+
+    .contact-box-icon {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 5px;
+    }
+
+    .contact-box-icon svg {
+        width: 30px;
+    }
+
+    .contact-box-content h3 {
+        font-size: 22px;
+
+        margin-bottom: 10px;
+    }
+
+    .contact-box-content span {
+        font-size: 16px;
+    }
 }
